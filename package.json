@@ -8,7 +8,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "acorn": "^6.0.0",
+    "acorn": "^6.4.1",
     "aurelia-animator-css": "^1.0.4",
     "aurelia-bootstrapper": "^2.3.2",
     "bootstrap": "^4.3.1",
